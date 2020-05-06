@@ -1,0 +1,23 @@
+= COVID-19 Data Visualization
+
+Python-based COVID-19 data visualization study for my bachelor course, Introduction to Big Data Analysis.
+
+The study includes rates, daily new cases, active cases and total confirmed/death/recovery graphs.
+
+Graphs are in this repository were obtained from Turkey's COVID-19 data.
+
+image::graphs/Covid-19.jpg[COVID-19]
+image::graphs/New_cases.jpg[New Cases]
+image::graphs/Active_cases.jpg[Active Cases]
+
+Data source: https://github.com/CSSEGISandData/COVID-19
+
+
+
+
+
+
+
+
+
+
